@@ -65,7 +65,7 @@ var userMsg = sayHello(user);
 
 <!-- Put your image here -->
 
-![](./img/image-name.jpg)
+![](../img/global2.png  )
 
 ```js
 var marks = 400;
